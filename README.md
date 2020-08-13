@@ -1,4 +1,4 @@
-# teensy-encryption-device
+# Teensy Encryption Device 
 The Teensy Encryption Device (TED) provides a, secure method for encrypting and decrypting data communications sent through a satellite radio communications link, between a satellite and ground station. The module sits between any flight computer and a communications radio.  Below is the source code for our implementation. 
 
 # Performance Characteristics:
