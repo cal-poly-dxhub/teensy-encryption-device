@@ -1,1 +1,1 @@
-# teensy-encyption-device
+# teensy-encryption-device
